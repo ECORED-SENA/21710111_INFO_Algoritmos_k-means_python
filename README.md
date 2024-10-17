@@ -1,7 +1,7 @@
-# **INFO_228138_Desarrollo_Implementacion_Soluiones_Transformacion_Digital**
+# **21710111_INFO_Algoritmos_k-means_python**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/](https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/)
+[https://ecored-sena.github.io/21710111_INFO_Algoritmos_k-means_python/](https://ecored-sena.github.io/21710111_INFO_Algoritmos_k-means_python/)
 
 #
